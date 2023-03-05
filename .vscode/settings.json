@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "task.h": "c",
+        "rtc.h": "c",
+        "dynamicmemory.h": "c"
+    }
+}
